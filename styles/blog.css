@@ -1,0 +1,22 @@
+nav > Ul > li {
+    display: inline;
+    margin-right: 15px;
+}
+nav li > a{
+    text-decoration: none;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
+.asdf{
+    background-color: rgb(255, 0, 102);
+}
+*{background-color: aqua;}
+.bormi{
+    margin: auto;
+    background-color: azure;
+}
+.hihi{
+    color: rgba(221, 4, 51, 0.978);
+}
